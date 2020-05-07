@@ -2,10 +2,10 @@
 
 ## What do I learn?
 
-Today we will be learning about projects on GitHub! I bet you might have seen it but don't know what it's used for or even are totally not aware of what the projects feature is about.
+Today we will be learning about project boards on GitHub! I bet you might have seen it but don't know what it's used for or even are totally not aware of what the projects feature is about.
 
 #### Brief Overview
-GitHub projects helps you keep track of stuffs you're actively working on within your repo. You can say it's a project managemnet tool, or even a collaboration tool for teams. You create a project board with columns for your TODO or backlogs or even bugs, In progress activies and lastly a column for your finished tasks. You can sort of see it as a SCRUM board (but trust me the use case is not limited). To learn more [about project boards hit this link](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards)
+GitHub project boards helps you keep track of stuffs you're actively working on within your repository. You can say it's a project managemnet tool, or even a collaboration tool for teams. You create a project board with columns for your TODO or backlogs or even bugs, In progress activies and lastly a column for your finished tasks. You can sort of see it as a SCRUM board (but trust me the use case is not limited). To learn more [about project boards hit this link](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards)
 
 ## Tasks
 
